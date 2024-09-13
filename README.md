@@ -12,6 +12,10 @@ This repository showcases project, built using Power BI Desktop and Excel. It le
 
 ✅ Interactive Dashboards: Visualize data through various charts and graphs, enabling easy exploration and analysis.
 
+![Screenshot (333)](https://github.com/user-attachments/assets/c1603b4c-8440-463b-b225-f3ce7480ccb0)
+Image of the Analytics Dashboard
+
+
 ## **Technology Stack:**
 1. Power BI Desktop
 2. Excel
